@@ -6,5 +6,8 @@ public class Main {
     }
     public static void main(String[] args) {
         System.out.printf("Resultado: %02d", soma(5,8));
+        System.out.printf("Resultado: %02d", soma(5,8));
+
+
     }
 }
